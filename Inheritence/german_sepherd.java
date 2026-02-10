@@ -7,6 +7,8 @@ public class german_sepherd extends inheritence1 {
     int age=5;
     public void eat(){
         System.out.println("German Sepherd is eating");
+
+        
     }
     public void sleeping(){
         System.out.println("German Sepherd is sleeping");
