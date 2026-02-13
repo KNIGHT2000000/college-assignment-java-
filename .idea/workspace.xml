@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e211020-f900-4729-9f66-b5b257ec6795" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/A1/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ass1302/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ass1302/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ass1302/inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +79,7 @@
       <workItem from="1769755637354" duration="35000" />
       <workItem from="1769755792883" duration="263000" />
       <workItem from="1769836179295" duration="69000" />
+      <workItem from="1770960046353" duration="311000" />
     </task>
     <servers />
   </component>
