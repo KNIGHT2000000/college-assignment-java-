@@ -1,7 +1,7 @@
-public class Manager extends Employee {
+public class Manage1r extends Employee1 {
     private double bonus;
 
-    public Manager(String name, int id, double salary, double bonus) {
+    public Manage1r(String name, int id, double salary, double bonus) {
         super(name, id, salary);
         this.bonus = bonus;
     }

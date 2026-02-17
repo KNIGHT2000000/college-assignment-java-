@@ -1,9 +1,9 @@
-public class Employee {
+public class Employee1 {
     protected String name;
     protected int id;
     protected double salary;
 
-    public Employee(String name, int id, double salary) {
+    public Employee1(String name, int id, double salary) {
         this.name = name;
         this.id = id;
         this.salary = salary;

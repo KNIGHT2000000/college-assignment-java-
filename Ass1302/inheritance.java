@@ -10,25 +10,5 @@
 //1.	Use constructors to initialize values.
 //2.	Create objects in the main() method and demonstrate output.
 
-
-
-
-public static void  Employee{
-    private String name;
-    private int id;
-    private double salary;
-    Employee(String name, int id, double salary){
-    this.name = name;
-    this.id = id;
-    this.salary = salary;}
-    public void displayEmployeeDetails(){
-        System.out.println("Name: " + name);
-        System.out.println("ID: " + id);
-        System.out.println("Salary: " + salary);
-
-        }
-
-
-
-
-        }
+// This file previously contained an Employee class but it was moved to Employee1.java
+// Kept as a placeholder for assignment notes and history.
